@@ -4,6 +4,6 @@
 
 1> Install [Tampermonkey extension] (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
-2> Click on *script.user.js*
+2> Click on `script.user.js`
 
 3> Press *Raw* button and then *Install*
