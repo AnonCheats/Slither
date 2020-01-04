@@ -1,8 +1,10 @@
 # Slither.io Mod Menu (AutoBot)
 
+#### Require:
+###### • [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 ```diff
-! Install [Tampermonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+! Install Tampermonkey extension
 
 ! Click on `script.user.js`
 
